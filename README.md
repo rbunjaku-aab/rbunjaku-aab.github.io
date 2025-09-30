@@ -18,26 +18,67 @@
 
 <header>
     <h1>Ridvan Bunjaku</h1>
-    <p>Computer Scientist | Software Developer | Researcher</p>
+    <p>Computer Scientist | Business Analyst | Researcher</p>
 </header>
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Unë jam një profesionist i fushës së shkencave kompjuterike me eksperiencë në programim, analiza të të dhënave dhe zhvillim software. Jam i apasionuar pas teknologjisë dhe inovacionit.</p>
+    <p>I graduated from the Faculty of Mathematical and Natural Sciences at the University of Prishtina in the field of “Applied Mathematics”. I completed postgraduate studies at the South East European University in North Macedonia, in the field of “Software and Application Development,” earning the title Master of Computer Science (Mr.Sc).
+</p>
 </section>
 
-<section id="projects">
-    <h2>Projects</h2>
-    <div class="project">
-        <h3>Project 1: Library Management App</h3>
-        <p>Zhvilluar në Python/Django, përdor PostgreSQL dhe REST API.</p>
-        <a href="https://github.com/emriyt/library-app" target="_blank">View on GitHub</a>
-    </div>
-    <div class="project">
-        <h3>Project 2: Cryptography Study</h3>
-        <p>Eksplorim i algoritmit Serpent në Haskell.</p>
-        <a href="https://github.com/emriyt/cryptography-study" target="_blank">View on GitHub</a>
-    </div>
+<section id="prof_ex">
+    <h2>Professional Experience</h2>
+    <p>My professional experience includes working in the industry since 2005 as a software engineer, systems analyst, project manager, and trainer of official Microsoft courses. I was certified as a Microsoft Certified Solution Developer, and as a PMI Professional in Business Analysis (PMI-PBA).
+I am a full-time staff member at AAB College, where I teach the courses Introduction to Programming and Object-Oriented Programming. I was an assistant and lecturer in Computer Science and Mathematics courses at the Faculty of Mathematical and Natural Sciences of University of Prishtina. I also taught at Riinvest College.
+</p>
+</section>
+
+<section id="sci_work">
+    <h2>Scientific Works and Conferences</h2>
+    <p style="text-align: justify">His contribution to science includes two publications in journals indexed by SCOPUS and Google Scholar.</p>
+<ul style="text-align: justify">
+<li style="text-align: justify"><strong>Mollakuqe Elissa, Shasivar Rexhepi, Ridvan Bunjaku, Hasan Dag,</strong> <strong>and Ikechukwu John Chukwu.</strong><em> &#8220;Algorithm for Key Transparency with Transparent Logs.&#8221;</em> Open Research Europe 4, no. 163 (2024): 163. <a href="https://open-research-europe.ec.europa.eu/articles/4-163/v1">https://open-research-europe.ec.europa.eu/articles/4-163/v1</a></li>
+<li style="text-align: justify"><strong>M. Ferati, N. Mripa and R. Bunjaku.</strong><br />
+<em>“Accessibility of MOOCs for blind people in developing non-English speaking countries”</em><br />
+in 7th International Conference on Applied Human Factors and Ergonomics 2016 and the Affiliated Conferences, 27-31 July 2016: <a href="https://link.springer.com/chapter/10.1007/978-3-319-41962-6_46">http://www.ahfe2016.org/program3.html</a></li>
+<li style="text-align: justify">Book “Advances in Design for Inclusion”, Springer, 2016:<br />
+<a href="http://www.springer.com/gp/book/9783319419619">http://www.springer.com/gp/book/9783319419619</a></li>
+</ul>
+<h5 style="text-align: justify">Publications</h5>
+<ul style="text-align: justify">
+<li style="text-align: justify">Technical Reviewer for the book: Freeman, Eric. <em>Head First Learn to Code: A Learner&#8217;s Guide to Coding and Computational Thinking.</em> &#8220;O&#8217;Reilly Media, Inc.&#8221;, 2018.<br />
+<a href="https://rbunjaku.wordpress.com/2018/08/22/referenca-dhe-rekomandime/">https://rbunjaku.wordpress.com/2018/08/22/referenca-dhe-rekomandime/</a></li>
+<li style="text-align: justify">Author of the book <em>“OOP and Programming Techniques in Practice,” which describes an original algorithm of a computer chess player using OOP principles and advanced programming techniques</em> (2010)<br />
+<a href="https://rbunjaku.wordpress.com/2014/06/13/oop-dhe-teknika-te-programimit-ne-praktike/">https://rbunjaku.wordpress.com/2014/06/13/oop-dhe-teknika-te-programimit-ne-praktike/</a></li>
+<li style="text-align: justify">Programming exercises: David Schmidt with Ridvan Bunjaku – <em>&#8220;Principles of Programming in Java: Architectures and Interfaces&#8221;</em><br />
+Chapters I-VI (first book), 2004<br />
+<a href="https://rbunjaku.wordpress.com/2014/06/03/ushtrime-ne-java-pjesa-1/">https://rbunjaku.wordpress.com/2014/06/03/ushtrime-ne-java-pjesa-1/</a><br />
+and Chapters VII-VIII (second book), 2005<br />
+<a href="https://rbunjaku.wordpress.com/2014/06/03/ushtrime-ne-java-pjesa-2/">https://rbunjaku.wordpress.com/2014/06/03/ushtrime-ne-java-pjesa-2/</a></li>
+</ul>
+<p style="text-align: justify">Ridvan Bunjaku is a person with experience and connection between academia and the software development industry, with a large number of Albanian translations of book summaries in Computer Science, known for his dedication to excellence.</p>
+                        </div>
+                        <div class="accordion__content-bottom">
+                            <ul>
+                                                                        <li>+383 38 600 005</li>
+                                                                        <li>
+                                            <a href="/cdn-cgi/l/email-protection#087a616c7e6966266a7d666269637d4869696a256d6c7d26666d7c" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="8af8e3eefcebe4a4e8ffe4e0ebe1ffcaebebe8a7efeeffa4e4effe">[email&#160;protected]</span></a>
+                                        </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                
+                <div class="back-section">
+                	
+                                	<div>
+
+            		            			<div><a href="https://aab-edu.net/en/faculties/computer-sciences/academic-staff/"> Computer Sciences - Academic staff</a></div>
+                		               		</div>   
+               	                </div>
+            </div>
+        </div>
 </section>
 
 <section id="contact">
