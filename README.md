@@ -59,33 +59,7 @@ and Chapters VII-VIII (second book), 2005<br />
 </ul>
 <p style="text-align: justify">Ridvan Bunjaku is a person with experience and connection between academia and the software development industry, with a large number of Albanian translations of book summaries in Computer Science, known for his dedication to excellence.</p>
                         </div>
-                        <div class="accordion__content-bottom">
-                            <ul>
-                                                                        <li>+383 38 600 005</li>
-                                                                        <li>
-                                            <a href="/cdn-cgi/l/email-protection#087a616c7e6966266a7d666269637d4869696a256d6c7d26666d7c" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="8af8e3eefcebe4a4e8ffe4e0ebe1ffcaebebe8a7efeeffa4e4effe">[email&#160;protected]</span></a>
-                                        </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </div>
-                                
-                <div class="back-section">
-                	
-                                	<div>
-
-            		            			<div><a href="https://aab-edu.net/en/faculties/computer-sciences/academic-staff/"> Computer Sciences - Academic staff</a></div>
-                		               		</div>   
-               	                </div>
-            </div>
-        </div>
-</section>
-
-<section id="contact">
-    <h2>Contact</h2>
-    <p>Email: <a href="mailto:ridvan@example.com">ridvan@example.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/ridvanbunjaku" target="_blank">linkedin.com/in/ridvanbunjaku</a></p>
-    <p>GitHub: <a href="https://github.com/emriyt" target="_blank">github.com/emriyt</a></p>
+                        
 </section>
 
 </body>
